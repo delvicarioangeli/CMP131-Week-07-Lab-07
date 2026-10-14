@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Angelina Del Vicario
+- Week:07
+- Lab:07
+- Date:10/14/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [* ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -50,4 +50,4 @@ Response:
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: No ai tool was used for this lab
